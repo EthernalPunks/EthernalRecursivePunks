@@ -1,6 +1,6 @@
-## Ethernal Punks
+## Ethernal Recursive Punks
 
-Ethernal Punks is one of the first 10k Recursive ethernal collections. The original Punks are being recreated by combining different pre-inscribed traits. Mint is 100% free. Find the punk you want in the SVG folder and inscribe the SVG file to claim it.
+Ethernal Recursive Punks is one of the first 10k Recursive ethernal collections. The original Punks are being recreated by combining different pre-inscribed traits. Mint is 100% free. Find the punk you want in the SVG folder and inscribe the SVG file to claim it.
 
 **Note: On June 28, 2023, at 10:00 AM UTC, all SVGs will be released in this repository.**
 
