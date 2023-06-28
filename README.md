@@ -8,5 +8,5 @@ Use the Hash Check tool to check if the SVG were already inscribed. Hash Check t
 
 ### How do these ‘recursive inscriptions’ work?
 
-All punk traits have been inscribed in Ethernals (view them here).
+All punk traits have been inscribed in Ethernals ([view them here](https://ethernals.org/address/0x7cdfba60cffc031a3fae2f5f5c4b23b4903f15e0)).
 These traits are being combined into a new inscription to regenerate the original punks into an svg file.
